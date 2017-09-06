@@ -1,0 +1,5 @@
+C:\code\coretest
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=coretest
+--content-root=C:\code\coretest
+--file=
