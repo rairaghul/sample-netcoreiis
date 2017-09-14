@@ -2,6 +2,8 @@
 
 The repository contains a basic .NET Core WebAPI template provided by Microsoft with the additional configuration required in order to run in IIS. Additionally, an Apprenda archive is provided if you wish to deploy to an Apprenda environment with .NET Core Web Server Hosting Bundled installed (https://aka.ms/dotnetcore.2.0.0-windowshosting).
 
+NOTE: If your server does not have access to the Internet, you will need to first install manually the Microsoft Visual C++ 2015 Redistributable Update 3 from https://www.microsoft.com/en-us/download/details.aspx?id=53840
+
 # Deploying to IIS
 
 In order to deploy a .NET Core application to IIS, you simply need to add the following to your code:
