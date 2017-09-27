@@ -26,6 +26,7 @@ In order to deploy a .NET Core application to IIS, you simply need to add the fo
 
 3. You can then build and publish your application. 
 4. In order to create an Apprenda archive, package the contents of the `bin\Debug\netcoreapp2.0\publish` directory into the root portion of your archive (under interfaces) and zip up the contents. For more information on manually building an archive, please refer to: http://docs.apprenda.com/7-0/creating-app-archives
+5. Once you launch the application, navigate to *URL/api/values*
 
 An archive is provided as part of this repository. 
 
