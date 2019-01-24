@@ -11,5 +11,6 @@
   </ItemGroup>
   <ItemGroup>
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
+    <p>This is a paragraph.</p>
   </ItemGroup>
 </Project>
